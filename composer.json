@@ -1,0 +1,11 @@
+{
+    "name": "marko/test5",
+    "description": "testni bez readme",
+    "authors": [
+        {
+            "name": "marko",
+            "email": "mark.bencic@gmail.com"
+        }
+    ],
+    "require": {}
+}
